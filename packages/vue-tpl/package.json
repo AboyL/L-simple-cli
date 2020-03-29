@@ -1,0 +1,34 @@
+{
+  "name": "vue-tpl",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "lijunfeng <junfeng.li@hand-china.com>",
+  "homepage": "https://github.com/AboyL/L-simple-cli#readme",
+  "license": "ISC",
+  "main": "lib/vue-tpl.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AboyL/L-simple-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "webpack"
+  },
+  "bugs": {
+    "url": "https://github.com/AboyL/L-simple-cli/issues"
+  },
+  "browserslist": [
+    "> 0.5%",
+    "last 2 versions"
+  ],
+  "dependencies": {
+    "vue-router": "^3.1.6"
+  }
+}
