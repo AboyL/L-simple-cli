@@ -34,7 +34,7 @@
     "last 2 versions"
   ],
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "connect-multiparty": "^2.2.0",
     "vue-router": "^3.1.6",
     "webpack-dev-server": "^3.10.3"
